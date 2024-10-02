@@ -1,0 +1,14 @@
+1º = npm install -g react-native-cli
+2º = npx create-expo-app apptrab -t
+3º = cd apptrab
+4º = npx expo install react-native-web react-dom @expo/metro-runtime
+5º = npx expo install react-native-web react-dom -- --force
+6º = npm run web
+
+
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-screens react-native-safe-area-context
+
+
+npm install react-native-vector-icons
