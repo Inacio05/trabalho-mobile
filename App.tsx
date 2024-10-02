@@ -27,7 +27,7 @@ function HomeScreen({ navigation }) {
         <br /><br />
         <Button
           title="Email"
-          onPress={() => Linking.openURL('mailto:inacio0502@.com')}
+          onPress={() => Linking.openURL('mailto:inacio0502@gmail.com')}
         />
         <br /><br />
       </View>
